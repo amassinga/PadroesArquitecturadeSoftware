@@ -1,0 +1,2 @@
+# PadroesArquitecturadeSoftware
+Adicionar novo projecto
